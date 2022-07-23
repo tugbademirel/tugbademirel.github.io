@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Favorite Furnitures</title>
+    </head>
+
+    <body>
+        <h1 style="margin : 1px;  font-size: 3em;"> My favorite furnitures in IKEA</h1>
+
+        <h1>Drawer Dresser</h1> <a href="https://www.ikea.com.tr/en/catalog/bedroom/bedroom-storage/chest-of-drawers/10239280/hemnes-chest-of-8-drawers.aspx">IKEA drawe dresser</a>
+        <p>Firstly my favorite furniture is hemnes-6 drawer dresser of ikea. </p>
+        <p>Because I think it can be useful for every home. It also has a stylish look. </p>
+        <br>
+        <h1>Söderhamn Corner Sofa</h1> <a href="https://www.ikea.com.tr/en/catalog/living-room/sofas/corner-sofas/39305892/soderhamn-6-seat-corner-sofa.aspx">IKEA sofa</a>
+        <p>This sofa is my favorite because I like comfortable and sporty style.</p>
+        
+        
+    </body>
